@@ -1,8 +1,11 @@
 {
   "version": "1.0.1-trial",
-  "comment": "Thử nghiệm tải hook từ xa cho các hàm quan trọng",
-  "offsets": {
-    "esp_actorLinker_update": "0x589BD5C"
+3
+"comment": "Thử nghiệm tải hook từ xa c
+4
+"offsets": {
+5
+"esp_actorLinker_update": "0x589BD5C"
 6
 "camera_getZoomRate": "0x570B690"
 7
@@ -10,10 +13,13 @@
 8
 "Iframework_initLogic": "0x46961F0",
 9
+"block_enqueueHash": "0x46C67EC",
+10
 "block_update": "0x4EBBF74"
   }
 
 }
+
 
 
 
