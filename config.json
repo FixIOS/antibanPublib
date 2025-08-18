@@ -1,6 +1,6 @@
 {
   "version": "1.0.1-trial",
-"comment": "Thử nghiệm tải hook từ xa c
+"comment": "Thử nghiệm tải hook từ xa",
 "offsets": {
 "esp_actorLinker_update": "0x589BD5C",
 "camera_getZoomRate": "0x570B690",
@@ -9,6 +9,7 @@
 "block_update": "0x4EBBF74"
   }
 }
+
 
 
 
