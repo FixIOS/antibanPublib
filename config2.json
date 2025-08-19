@@ -1,0 +1,15 @@
+{
+  "version": "1.50.2",
+  "allow_initialization": true,
+  "some_other_config": "value",
+  
+  "offsets": {
+    "hackmap_setVisible": "0x4386FE8",
+    "camera_getHeightRate": "0x570B690",
+    "security_hookLog": "0x4190530",
+    "security_onEnter": "0x5C5FAE8",
+    "anticheat_lframeworkInit": "0x46961F0",
+    "anticheat_blockUpdate": "0x4EBBF74",
+    "anticheat_updateFrame": "0x463A594"
+  }
+}
