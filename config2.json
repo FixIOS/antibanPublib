@@ -8,8 +8,11 @@
     "camera_getHeightRate": "0x570B690",
     "security_hookLog": "0x4190530",
     "security_onEnter": "0x5C5FAE8",
-    "anticheat_updateFrame": "0x463A594"
+    "anticheat_updateFrame": "0x463A594",
+
+    "anticheat_complaintPack": "0x947E00",
+    "security_getPlayerUIDStr": "0x4D767B8",
+    
+    "anticheat_setGameSvrPing": "0x4638A84"
   }
-
 }
-
