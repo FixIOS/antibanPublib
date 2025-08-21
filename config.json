@@ -5,10 +5,10 @@
 "esp_actorLinker_update": "0x589BD5C",
 "camera_getZoomRate": "0x570B690",
 "maphack_setVisible": "0x4386FE8",
-  "lframework_initLogic":"0x46961F0",
-  "block_update": "0x4EBBF74"
+  "lframework_initLogic":"0x46961F0"
   }
 }
+
 
 
 
