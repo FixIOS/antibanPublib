@@ -5,9 +5,11 @@
 "esp_actorLinker_update": "0x589BD5C",
 "camera_getZoomRate": "0x570B690",
 "maphack_setVisible": "0x4386FE8",
+  "cheat_update": "0x599E1D4",
   "lframework_initLogic":"0x46961F0"
   }
 }
+
 
 
 
