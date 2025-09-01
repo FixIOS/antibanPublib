@@ -2,13 +2,14 @@
   "version": "1.0.1-trial",
 "comment": "Thử nghiệm tải hook từ xa",
 "offsets": {
-"esp_actorLinker_update": "0x589BD5C",
-"camera_getZoomRate": "0x570B690",
-"maphack_setVisible": "0x4386FE8",
-  "cheat_update": "0x599E1D4",
-  "lframework_initLogic":"0x46961F0"
+"esp_actorLinker_update": "0x589BAFC",
+"camera_getZoomRate": "0x570B5E8",
+"maphack_setVisible": "0x4386DE8",
+  "cheat_update": "0x599E12C",
+  "lframework_initLogic":"0x469605C"
   }
 }
+
 
 
 
